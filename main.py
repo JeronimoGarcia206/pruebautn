@@ -1,4 +1,4 @@
-print("Hola Mundo desde main ")
+print("Hola Mundo desde rama auxiliar")
 
 nombre = input("Ingrese su nombre: ")
 
